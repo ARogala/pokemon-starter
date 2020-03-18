@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+/* add your CSS here */
+
+.MainDiv {
+	margin: 0 auto 0 auto;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	height: 900px;
+	width: 320px;
+	padding: 5px;
+}
+
+.heading {
+	margin: 10px;
+	text-align: center;
+}
+
+.image {
+	/*display block so we can center like a div*/
+	display: block;
+	width: 300px;
+	height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.SubDiv {
+	margin: 0 auto 0 auto;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	width: 300px;
+	padding: 5px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+.list {
+	/*type none to remove bullets*/
+	list-style-type: none;
+	padding: 0;
+}
+
+.list span {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
